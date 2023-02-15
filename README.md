@@ -5,7 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a>[![CV](https://img.shields.io/badge/-CV-yellow?style=for-the-badge)](https://github.com/GourgueAntoine/GourgueAntoine/blob/main/CV.jpeg)</a>
 <a href="https://linkedin.com/in/antoine gourgue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoine gourgue" height="30" width="40" /></a>
 </p>
 
