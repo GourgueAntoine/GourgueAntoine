@@ -2,10 +2,11 @@
 <h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourgueantoine&label=Profile%20views&color=0e75b6&style=flat" alt="gourgueantoine" /> </p>
-<img src="https://github.com/GourgueAntoine/GourgueAntoine/blob/main/CV.jpg" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/antoine-gourgue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoine gourgue" height="30" width="40" /></a>
+  <a> src="https://github.com/GourgueAntoine/GourgueAntoine/blob/main/CV.jpg" <img src"file:///C:/Users/antoi/Downloads/curriculum-vitae-svgrepo-com.svg" height="30" width="40"<a/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
