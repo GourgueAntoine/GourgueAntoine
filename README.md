@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/antoine-gourgue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoine gourgue" height="30" width="40" /></a>
-<a href="https://github.com/GourgueAntoine/GourgueAntoine/blob/main/CV.jpg" target="blank"><img align="center" src="https://github.com/GourgueAntoine/GourgueAntoine/blob/main/curriculum-vitae-svgrepo-com.svg" alt="antoine gourgue" height="30" width="40" /></a>
+<a href="https://github.com/GourgueAntoine/GourgueAntoine/blob/main/CV.jpg" target="blank"><img align="center" src="<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="100" height="100" xml:space="preserve"><path fill="#0D47A1" d="M10 16.667v66.667C10 86.999 13.001 90 16.667 90h66.667C86.999 90 90 86.999 90 83.333V16.667C90 13.001 86.999 10 83.333 10H16.667C13.001 10 10 13.001 10 16.667z"/><path fill="#E3F2FD" d="M16.667 16.667h66.667v66.667H16.667z"/><path fill="#0D47A1" d="M26.667 66.667h46.667v6.666H26.667zM40 36.667a3.333 3.333 0 0 0-6.666 0v13.33a3.333 3.333 0 1 0 6.666 0h6.667c0 5.524-4.479 10-10 10s-10-4.478-10-10v-13.33c0-5.522 4.479-10 10-10s10 4.478 10 10H40zM66.462 26.667h6.871L65 60h-6.667L50 26.667h6.872l4.795 19.179z"/></svg>" alt="antoine gourgue" height="30" width="40" /></a>
 </p>
 
 
